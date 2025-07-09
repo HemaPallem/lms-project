@@ -36,17 +36,16 @@ A full-featured Learning Management System built using the **MERN stack** (Mongo
 
 ### 🛠 Tech Stack
 
-| Technology             | Role            |
-| ---------------------- | --------------- |
-| React.js               | Frontend UI     |
-| Tailwind + ShadCN      | Styling         |
-| React Hook Form +YUP   | Form management |
-| Node.js + Express      | Backend & API   |
-| MongoDB + Mongoose     | Database ORM    |
-| JWT                    | Authentication  |
-| Cloudinary             | File hosting    |
-| TypeScript             | Type safety     |
-
+| Technology           | Role            |
+| -------------------- | --------------- |
+| React.js             | Frontend UI     |
+| Tailwind + ShadCN    | Styling         |
+| React Hook Form +YUP | Form management |
+| Node.js + Express    | Backend & API   |
+| MongoDB + Mongoose   | Database ORM    |
+| JWT                  | Authentication  |
+| Cloudinary           | File hosting    |
+| TypeScript           | Type safety     |
 
 ## 🏁 Getting Started
 
@@ -76,7 +75,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 .env for frontend:
 VITE_API_URL=http://localhost:5000
-VITE_CLOUDINARY_CLOUD_NAME=your_cloud_name
+VITE_GOOGLE_CLIENT_ID=google_client_id
 
 ### 📂 Folder Structure
 
