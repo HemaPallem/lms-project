@@ -6,7 +6,7 @@ A full-featured Learning Management System built using the **MERN stack** (Mongo
 
 ## 🔗 Live Demo
 
-🚧 _Add link here when deployed_
+🚧 https://lms-frontend-53q1.onrender.com
 
 ---
 
